@@ -1,4 +1,4 @@
-# Sakani-Shokran - Graduation Project
+# Qarya - Graduation Project
 
 A roommate / apartment matching and rental platform.
 
